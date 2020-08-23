@@ -1,0 +1,10 @@
+div {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  transition-property: all;
+  transition-duration: 2s;
+  transition-delay: 2s;
+}
